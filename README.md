@@ -4,13 +4,13 @@ This project analyzes a Netflix movies dataset containing information about more
 # Features
 
 Identifies the most frequent movie genre on Netflix
-Analyzes voting patterns and finds the highest-rated movies
-Tracks movie popularity metrics
-Determines peak movie production years
-Provides formatted output of all analysis results
+Analyzes voting patterns and finds the highest-rated movies<br>
+Tracks movie popularity metrics<br>
+Determines peak movie production years<br>
+Provides formatted output of all analysis results<br>
 
 # Prerequisites
 
-Python 3.8 or higher
-pandas, numpy, matplot, seaborn libraries
-A Netflix movies dataset in CSV format
+Python 3.8 or higher<br>
+pandas, numpy, matplot, seaborn libraries<br>
+A Netflix movies dataset in CSV format<br>
